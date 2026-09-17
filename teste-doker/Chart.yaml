@@ -1,0 +1,6 @@
+apiVersion: v2
+name: minha-app
+description: Chart Helm para a aplicação React teste-doker
+type: application
+version: 1.0.0
+appVersion: "1.0.0"
