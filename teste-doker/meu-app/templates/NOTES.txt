@@ -1,0 +1,5 @@
+A aplicação foi instalada com sucesso!
+
+Para acessar:
+
+  minikube service {{ include "minha-app.fullname" . }}-svc --url
